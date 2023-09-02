@@ -1,0 +1,194 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+    
+}
+
+.container{
+    width: 100%;
+    margin:  0 auto;
+    text-align: center;
+}
+
+h1{
+    font-size:32px ;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: -20px;
+    color:rgb(58, 169, 243) ;
+}
+
+
+h3{
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(245, 251, 251) ;
+}
+
+
+h4{
+    font-size: 26px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(29, 128, 193);
+}
+
+h5{
+    font-size: 26px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(245, 251, 251);
+    margin-top: 20px;
+}
+
+
+.primeiro-conteudo{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    line-height: 30px;
+    width: 900px;
+    margin: 10px auto;
+}
+
+.destaque-assinatura{
+    color:rgb(21, 146, 230) ;
+
+}
+
+.destaque-contato{
+    font-size:18px ;
+    background-color: black;
+    width: 860px;
+    margin: 20px auto;
+    padding: 15px;
+    
+}
+
+.destaque-contato02{
+    color:rgb(240, 236, 41) ;
+}
+
+
+.segundo-conteudo{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 30px;
+    color: aliceblue;
+    width: 700px;
+    margin: 0 auto;
+}
+
+.terceiro-conteudo{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    width: 1000px;
+    margin: 10px auto;
+    line-height: 30px;
+
+}
+
+
+.logotipo{
+    width: 150px;
+    margin-top: 20px;
+
+}
+
+
+.primeira-secao{
+    width:100% ;
+    height: 250px;
+    background-color:rgb(176, 221, 252) ;
+}
+
+
+
+.terceira-secao{
+    width: 100%;
+    height: 410px;
+    background-color: rgb(29, 128, 193);
+    color:rgb(245, 251, 251) ;
+    padding: 30px;
+    margin-top: 40px;
+}
+
+.quarta-secao{
+    width: 100%;
+    height: 620px;
+    background-color: rgb(29, 128, 193);
+    color:rgb(245, 251, 251) ;
+    padding: 30px;
+    margin-top: 40px;
+}
+
+
+ul{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(245, 251, 251) ;
+    line-height: 30px;
+    width: 200px;
+    margin: 50px auto;
+    text-align: justify;  
+}
+
+
+.imagem-banner{
+    width:900px ;
+    margin: 40px;
+}
+
+.imagem-assinatura{
+    width: 400px;
+}
+
+
+.cabecalho{
+    font-size: 18px;
+    text-decoration: none;
+    margin: 10px;
+    border-bottom: 2px solid black;
+}
+
+.links-contato{
+    border:1px solid rgb(247, 254, 255)  ;
+    border-radius: 8px;
+    margin:10px  auto;
+    padding: 5px;
+    width: 200px;
+    background-color:rgb(247, 254, 255) ;
+}
+
+.link-medio{
+    width:150px ;
+    border:1px solid rgb(247, 254, 255)  ;
+    border-radius: 8px;
+    margin:10px  auto;
+    padding: 5px;
+    background-color:rgb(247, 254, 255) ;
+
+}
+.link-pequeno{
+    width: 120px;
+    border:1px solid rgb(247, 254, 255)  ;
+    border-radius: 8px;
+    margin:10px  auto;
+    padding: 5px;
+    background-color:rgb(247, 254, 255) ;
+}
+
+iframe{
+    width: 600px;
+    height: 300px;
+    margin-bottom: 20px;
+   
+}
+
+
+
+
